@@ -1408,7 +1408,7 @@ padding-bottom: 33px;
      color: #fff;
 }
 .text-img{
-     width: 700px;
+     max-width: 700px;
 }
 .text-img figure img{
      border-radius: 16px;
