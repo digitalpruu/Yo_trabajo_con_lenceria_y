@@ -11,8 +11,8 @@
         min-width: 280px;
     }
     .logo{
-        min-width: 80px;
-        max-width: 150px;
+        min-width: 200px;
+        max-width: 250px;
     }
     .text-bg h1{
         font-size: 40px;
@@ -27,6 +27,18 @@
         flex-direction: column;
         text-align: center;
     }
+    .call_now2 span {
+        font-size: 18px;
+    }
+    .call_now span {
+        font-size: 25px;
+    }
+    .call_now h3{
+        font-size: 20px;
+    }
+    .primary-button{
+        width: 300px;
+    }
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
@@ -35,6 +47,18 @@
     }
     .logo{
         width: 150px;
+    }
+    .call_now2 span {
+        font-size: 18px;
+    }
+    .call_now span {
+        font-size: 25px;
+    }
+    .call_now h3{
+        font-size: 20px;
+    }
+    .primary-button{
+        width: 300px;
     }
 }
 
